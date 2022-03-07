@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🧑‍💻 I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+- 🗂️ Watch my learning projects at pinned repositories.
+- 💬 If you are interested in me, I would be glad to have a conversation ➡️ artguk@protonmail.com
+
 ### 🧰 Languages and Tools
 
 <div>
