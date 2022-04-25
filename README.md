@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-- 🧑‍💻 I'm looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
-- 🗂️ Watch my learning projects at pinned repositories.
-- 💬 If you are interested in me, I would be glad to have a conversation ➡️ artguk@protonmail.com
+I'm currently looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+
+⬇️ Check my learning projects pinned below.
+
+💬 If you are interested in me, I would be glad to have a conversation.
+
+- Mail: artguk@protonmail.com
+- LinkedIn: <a href="https://linkedin.com/in/artisdev" target=_blank>/in/artisdev</a>
 
 ### 🧰 Languages and Tools
 
@@ -11,7 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML"/>&nbsp;
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  title="GitHub" alt="GitHub"/>&nbsp;
@@ -31,7 +36,3 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="Trello" alt="Trello"/>&nbsp;
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" title="Notion" alt="Notion"/>
 </div>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artis-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
