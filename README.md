@@ -6,7 +6,7 @@ I'm currently looking for an entry-level front-end or full-stack web developer p
 
 💬 If you are interested in me, I would be glad to have a conversation.
 
-- Mail: artguk@protonmail.com
+- Mail: artisdev@proton.me
 - LinkedIn: <a href="https://linkedin.com/in/artisdev" target=_blank>/in/artisdev</a>
 
 ### 🧰 Languages and Tools
