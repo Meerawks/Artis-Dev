@@ -1,38 +1,31 @@
 ### Hi there 👋
 
-I'm currently looking for an entry-level front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+Self-taught front-end web developer looking for an entry-level position. I'm highly motivated to improve my skills and to be a valuable team member.
 
-⬇️ Check my learning projects pinned below.
+If you are interested in me, I would be glad to have a conversation.
 
-💬 If you are interested in me, I would be glad to have a conversation.
-
-- Mail: artisdev@proton.me
+- Email: artisdev@proton.me
 - LinkedIn: <a href="https://linkedin.com/in/artisdev" target=_blank>/in/artisdev</a>
 
-### 🧰 Languages and Tools
+#### Languages and Tools
 
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" title="Webpack" alt="Webpack"/>&nbsp;
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" alt="Jest"/>&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  title="GitHub" alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode"/>&nbsp;
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" title="Prietter" alt="Prietter"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat" alt="Jest"><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5"><br>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat" alt="Webpack">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux">
 </div>
 
-### 🔧 Additional skills
+#### Additional skills
 
 <div>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop" alt="Adobe Photoshop"/>&nbsp;
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" title="WordPress" alt="WordPress"/>&nbsp;
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" title="RaspberryPi" alt="RaspberryPi"/>&nbsp;
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="Trello" alt="Trello"/>&nbsp;
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" title="Notion" alt="Notion"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat" alt="WordPress">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat" alt="Trello">
 </div>
