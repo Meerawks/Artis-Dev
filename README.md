@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Self-taught front-end web developer looking for an entry-level position. I'm highly motivated to improve my skills and to be a valuable team member.
+As a front-end programmer, I am actively seeking opportunities to utilize my skills and stay current with industry advancements to create visually pleasing and user-friendly applications.
 
-If you are interested in me, I would be glad to have a conversation.
+Please feel free to contact me for any opportunities.
 
 - Email: artisdev@proton.me
 - LinkedIn: <a href="https://linkedin.com/in/artisdev" target=_blank>/in/artisdev</a>
